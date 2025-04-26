@@ -23,12 +23,6 @@ A clean and interactive To-Do List web application built with **HTML, CSS, and J
 
 ---
 
-## 📸 Screenshot
-
-![App Screenshot](./Screenshot.png)
-
----
-
 ## 🛠️ How to Run Locally
 
 1. Clone or download this repository
