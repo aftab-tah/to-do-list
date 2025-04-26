@@ -25,8 +25,7 @@ A clean and interactive To-Do List web application built with **HTML, CSS, and J
 
 ## 📸 Screenshot
 
-![App Screenshot](./images/Screenshot.png)
-
+![App Screenshot](./Screenshot.png)
 
 ---
 
